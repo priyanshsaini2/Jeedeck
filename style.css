@@ -1,0 +1,153 @@
+#logo {
+	width: 200px;
+	height: 200px;
+	background-color: #eff3f9;
+	
+}
+header {
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  .logo {
+    display: inline-block;
+  }
+  
+
+  
+h1 {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 80px;
+  }
+  
+  
+  h2 {
+	margin-top: 5px;
+}
+
+table {
+	margin-top: 6px;
+}
+main {
+	margin-top: 0px;
+}
+
+/* CSS for the font */
+body {
+	font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+}
+
+/* CSS for the table */
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+	text-align: center;
+	padding: 8px;
+	border: 1px solid #ddd;
+}
+
+th {
+	background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+/* CSS for the navigation menu */
+nav {
+	font-size: 1.5em; /* Change this value to increase or decrease the font size */
+  }
+  
+  nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+  }
+  
+  nav li {
+	display: inline-block;
+  }
+  
+  nav li a {
+	display: block;
+	padding: 10px;
+  }
+  
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+nav li {
+	float: left;
+}
+
+nav li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 20px 25
+	px;
+	text-decoration: none;
+}
+
+nav li a:hover {
+	background-color: #111;
+}
+
+/* CSS for the sections */
+section {
+	padding: 50px;
+}
+
+#cutoffs {
+	background-color: #f2f2f2;
+}
+
+#counseling {
+	background-color: #ddd;
+}
+
+/* CSS for the login form */
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+label {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+input[type="text"], input[type="password"] {
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+input[type="submit"] {
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+}
+
+input[type="submit"]:hover {
+	background-color: #45a049;
+}
+
+  
